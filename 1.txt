@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hgdguhdgvqgchsqkjsqvcfvqkjchgshqsdiuiqiiudgwqyqgduiw
+=======
+sjqshdwdghcdisjdhshvch
+>>>>>>> 02fea587dbcc2f5b71d29be4e7212b25896e022c
